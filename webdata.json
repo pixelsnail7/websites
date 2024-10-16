@@ -1,0 +1,124 @@
+{
+    "books" :
+    {
+        "pdfdrive": "https://www.pdfdrive.com/",
+        "loyal Books": "https://www.loyalbooks.com/",
+        "amar Books": "https://www.amarbooks.org/",
+        "BD Book's": "https://bdebooks.com/books/"
+      },
+
+    "programming":
+    {
+        "Github": "https://github.com/",
+        "W3schools": "https://www.w3schools.com/",
+        "Python": "https://www.python.org/",
+        "Javascript": "https://www.javascript.com/",
+        "HTML": "https://www.w3schools.com/html/",
+        "CSS": "https://www.w3schools.com/css/",
+        "react": "https://reactjs.org/",
+        "node": "https://nodejs.org/en/",
+        "express": "https://expressjs.com/",
+        "mongodb": "https://www.mongodb.com/",
+        "sql": "https://www.w3schools.com/sql/",
+        "mysql": "https://www.mysql.com/",
+        "postgresql": "https://www.postgresql.org/",
+        "firebase": "https://firebase.google.com/",
+        "codwars": "https://www.codewars.com/",
+        "leetcode": "https://leetcode.com/",
+        "hackerrank": "https://www.hackerrank.com/",
+        "codechef": "https://www.codechef.com/",
+        "codeforces": "https://codeforces.com/"
+      },
+
+    "typing":
+    {
+        "Typingtest": "https://www.typingtest.com/",
+        "Typingclub": "https://www.typingclub.com/",
+        "Monkeytype": "https://monkeytype.com/"
+      },
+
+    "english":
+    {
+        "English Grammar": "https://www.englishgrammar.org/"
+    },
+
+    "tools":
+    {
+        "Google": "https://www.google.com/",
+        "Gmail": "https://mail.google.com/",
+        "Github": "https://github.com/",
+        "Stackoverflow": "https://stackoverflow.com/",
+        "Quora": "https://www.quora.com/",
+        "Globe Explorer": "https://explorer.globe.engineer/"
+    },
+
+    "ai": 
+    {
+        "Chat Gpt": "https://chatgpt.com/",
+        "phind": "https://www.phind.com/search?home=true",
+        "Black Box": "https://www.blackbox.ai/",
+        "V0": "https://v0.dev/",
+        "Relume": "https://www.relume.io/",
+        "Theres an Ai for That": "https://theresanaiforthat.com/"
+    },
+
+    "softwars":
+    {
+        "Notepad++": "https://notepad-plus-plus.org/",
+        "Sublime Text": "https://www.sublimetext.com/",
+        "Visual Studio Code": "https://code.visualstudio.com/",
+        "Atom": "https://atom.io/",
+        "Brackets": "https://brackets.io/",
+        "Getintopc": "https://getintopc.com/"
+    },
+
+    "games": 
+    {
+        "Free games dl": "https://www.freegamesdl.net/",
+        "Ocens of Gamess": "https://oceansofgamess.com/"
+
+    },
+
+    "images":
+    {
+        "pexels": "https://www.pexels.com/",
+        "Unsplash": "https://unsplash.com/",
+        "Pixabay": "https://pixabay.com/",
+        "Pinrerest": "https://www.pinterest.com/"
+    },
+
+    "movie":
+    {
+        "MLWBD": "https://mlwbd.nl/",
+        "Movies Mod": "https://moviesmod.day/",
+        "Extra movies": "https://extramovies.foo/category/web-series/",
+        "13377X": "https://wwv.13377x.tw/",
+        "Mad stream": "https://madstream.in/",
+        "1Flix": "https://1flix.to/",
+        "Hd To dayz": "https://hdtodayz.to/country/IN?page=3",
+        "Moviws 4u": "https://movies4u.casino/",
+        "MoviezWap": "https://moviezwap.com/",
+        "Netflix": "https://www.netflix.com/",
+        "Prime": "https://www.primevideo.com/",
+        "Disney": "https://www.disneyplus.com/",
+        "Hulu": "https://www.hulu.com/",
+        "HBO": "https://www.hbomax.com/",
+        "Youtube": "https://www.youtube.com/",
+        "Twitch": "https://www.twitch.tv/"
+      },
+
+    "animes":
+    {
+        "GO GO Anime": "https://anitaku.pe/",
+        "Anime Flix": "https://animeflix.pm/",
+        "9 Anime": "https://9animetv.to/",
+        "Animepahe": "https://animepahe.ru/",
+        "Wocofun": "https://www.wcofun.net/",
+        "Toon Stream": "https://toonstream.co/",
+        "Anime Planet": "https://www.anime-planet.com/",
+        "kayo Anime": "https://kayoanime.com/",
+        "afabra": "https://www.afabra.store/",
+        "Animekaizoku": "https://www.animekaizoku.xyz/",
+        "Anime Dekho": "https://animedekho.net/home/"
+      }
+}
